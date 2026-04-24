@@ -9,7 +9,7 @@
 
 ### 🛠 I code with:
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,react,nextjs,tailwind,mongodb,docker,aws,git" />
+  <img src="https://skillicons.dev/icons?i=ts,js,html,css,androidstudio,git" />
 </p>
 
 ---
