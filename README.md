@@ -20,33 +20,28 @@ I'm a **Software Engineering student at HUFLIT**. I don't just aim to make thing
 ---
 
 ### 🛠 Tech Stack
-**Development**
-`Kotlin` • `Jetpack Compose` • `C#` • `JavaScript` • `HTML/CSS`
 
-**Environment & Infrastructure**
-`Linux` • `Git/GitHub` • `Android Studio` • `Terminal`
-
----
-
-### 📊 Engineering Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tuyenminhtran&show_icons=true&theme=transparent&hide_border=true&title_color=36BCF7&icon_color=36BCF7&text_color=777" alt="Minh Tuyen Stats" height="150" />
+**Mobile Development**
+<p>
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white" />
 </p>
 
----
+**Web & Backend**
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+</p>
 
-### ⚙️ Deep Dive
-```kotlin
-val minhTuyen = Developer(
-    status = "Student",
-    university = "HUFLIT",
-    motto = "Curiosity over Code",
-    currentFocus = listOf("Android", "Clean Architecture")
-)
-
-if (minhTuyen.isCuriousAbout("How it works?")) {
-    minhTuyen.digDeeper()
-}
+**Tools & OS**
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
 ---
 
