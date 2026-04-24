@@ -10,33 +10,16 @@
 ### 👨‍💻 About Me
 *"I don't just aim to make things work; I'm deeply passionate about understanding **why** they work."*
 
-Currently a **Software Engineering** student focusing on the **Android ecosystem** (Kotlin & Jetpack Compose), with a strong foundation in **Web Technologies**. Looking forward to mastering **Cross-platform** development in the near future.
+I am a **Software Engineering** student at **HUFLIT**. Currently, I'm diving deep into **Android Development** (Kotlin & Jetpack Compose) and have a strong interest in **Web Technologies**. My next goal is mastering **Cross-platform** development.
 
 ---
 
-### 🛠 Tech Stack
-
-**Mobile Development**
-<p>
-  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,cs" />
+### 🛠 Tech Stack & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,cs,html,css,js,firebase,sqlite,mongodb,linux,git,github&perline=13" />
 </p>
 
-**Web Development**
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
-</p>
-
-**Database & Cloud**
-<p>
-  <img src="https://skillicons.dev/icons?i=firebase,sqlite,mongodb" />
-</p>
-
-**Tools & OS**
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,git,github" />
-</p>
-
-> **Note:** For Android, I'm experienced with **Jetpack Compose** and **Room Database**.
+> **Core Focus:** Android (Room Database, Jetpack Compose) & Web Fundamentals.
 
 ---
 
@@ -47,5 +30,9 @@ Currently a **Software Engineering** student focusing on the **Android ecosystem
 </p>
 
 ---
+
+### 📫 Connect with me
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://fb.com/your-profile)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
 
 </div>
