@@ -1,29 +1,62 @@
 <div align="center">
 
 # 💫 Hi, I'm Minh Tuyên! 
-### Fullstack Developer | Tech Enthusiast 
+### Software Engineering Student @ HUFLIT 🎓
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F700FF&center=true&vCenter=true&width=435&lines=Turning+ideas+into+code;Love+creative+projects;Welcome+to+my+profile!)](https://git.io/typing-svg)
-
----
-
-### 🛠 I code with:
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,js,html,css,androidstudio,git" />
-</p>
-
----
-
-### 📊 My GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tuyenminhtran&show_icons=true&theme=radical&hide_border=false" alt="Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuyenminhtran&layout=compact&theme=radical&hide_border=false" alt="Top Langs" height="150" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;Android+Enthusiast;Web+Developer;Lifelong+Learner" alt="Typing SVG" />
 </p>
 
 ---
 
-### 📫 Connect with me:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://fb.com/your-profile)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+### 👨‍💻 About Me
+I'm a **Software Engineering student at HUFLIT**. I don't just aim to make things work; I'm deeply passionate about **understanding why they work** and how to build efficient, scalable systems.
+
+- 🌱 Currently focusing on **Android Development** (Kotlin & Jetpack Compose).
+- 🚀 Next stop: Exploring **Cross-platform** development.
+- 🌐 Also have a strong interest in **Web Technologies**.
+- 🛠️ Believer in the power of **Linux** and open-source.
+
+---
+
+### 🛠 Tech Stack
+
+**Mobile Development**
+<p>
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white" />
+</p>
+
+**Web & Backend**
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+</p>
+
+**Tools & OS**
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tuyenminhtran&show_icons=true&theme=tokyonight&hide_border=false" alt="Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuyenminhtran&layout=compact&theme=tokyonight&hide_border=false" alt="Top Langs" height="150" />
+</p>
+
+---
+
+### 📫 Let's Connect!
+<p align="left">
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
 
 </div>
