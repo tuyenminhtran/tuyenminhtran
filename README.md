@@ -24,9 +24,15 @@ I am a **Software Engineering** student at **HUFLIT**. Currently, I'm diving dee
 ---
 
 ### 📊 My GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tuyenminhtran&show_icons=true&theme=tokyonight&hide_border=false" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuyenminhtran&layout=compact&theme=tokyonight&hide_border=false" height="165" />
-</p>
+<table align="center" border="0">
+  <tr>
+    <td align="center" style="vertical-align: middle;">
+      <img src="https://github-readme-stats.vercel.app/api?username=tuyenminhtran&show_icons=true&theme=tokyonight&hide_border=false" height="165" />
+    </td>
+    <td align="center" style="vertical-align: middle;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuyenminhtran&layout=compact&theme=tokyonight&hide_border=false" height="165" />
+    </td>
+  </tr>
+</table>
 
 </div>
