@@ -29,10 +29,4 @@ I am a **Software Engineering** student at **HUFLIT**. Currently, I'm diving dee
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuyenminhtran&layout=compact&theme=tokyonight&hide_border=false" alt="Top Langs" height="150" />
 </p>
 
----
-
-### 📫 Connect with me
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://fb.com/your-profile)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-
 </div>
