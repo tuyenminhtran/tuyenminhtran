@@ -19,7 +19,7 @@ I am a **Software Engineering** student at **HUFLIT**. Currently, I'm diving dee
   <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,cs,html,css,js,firebase,sqlite,mongodb,linux,git,github&perline=13" />
 </p>
 
-> **Core Focus:** Android (Room Database, Jetpack Compose) & Web Fundamentals.
+ **Core Focus:** Android (Room Database, Jetpack Compose) & Web Fundamentals.
 
 ---
 
