@@ -1,7 +1,7 @@
 <div align="center">
 
 # 💫 Hi, I'm Minh Tuyên! 
-### Software Engineering Student @ HUFLIT 🎓
+### Software Engineering Student @ HUFLIT 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=36BCF7&center=true&vCenter=true&width=400&lines=Software+Engineering+Student;Android+Enthusiast;Deep+Dive+Explorer)](https://git.io/typing-svg)
 
