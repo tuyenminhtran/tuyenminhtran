@@ -8,9 +8,9 @@
 ---
 
 ###  About Me
-I’m a Software Engineering student at HUFLIT with a growing focus on Backend Development. I’m currently exploring C#, ASP.NET Core, Entity Framework Core, and PostgreSQL, while building projects to strengthen my understanding of software architecture and backend systems.
+I’m a Software Engineering student at HUFLIT focusing on Backend Development. Currently working with C#, ASP.NET Core, Entity Framework Core, and PostgreSQL, with a growing interest in AI systems, software architecture, and scalable backend development.
 
-I’m particularly interested in AI-powered applications, scalable backend systems, and clean architecture. My current long-term side project, ProjectDarling, is an AI companion project where I’m exploring conversational AI, persistent memory, and modular system design.
+**I enjoy building projects that challenge me to understand not only how things work, but why they work.**
 
 ---
 
