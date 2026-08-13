@@ -23,10 +23,11 @@ I’m a Software Engineering student at HUFLIT focusing on Backend Development. 
 
 ---
 
-###  My GitHub Stats
+## My GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tuyenminhtran&show_icons=true&theme=tokyonight&hide_border=false" alt="Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuyenminhtran&layout=compact&theme=tokyonight&hide_border=false" alt="Top Langs" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tuyenminhtran&show_icons=true&theme=transparent" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuyenminhtran&layout=compact&theme=transparent" alt="Top Languages" />
 </p>
 
 ---
