@@ -7,14 +7,14 @@
 
 ---
 
-### 👨‍💻 About Me
-*"I don't just aim to make things work; I'm deeply passionate about understanding **why** they work."*
+###  About Me
+I’m a Software Engineering student at HUFLIT with a growing focus on Backend Development. I’m currently exploring C#, ASP.NET Core, Entity Framework Core, and PostgreSQL, while building projects to strengthen my understanding of software architecture and backend systems.
 
-I am a **Software Engineering** student at **HUFLIT**. Currently, I'm diving deep into **Android Development** (Kotlin & Jetpack Compose) and have a strong interest in **Web Technologies**. My next goal is mastering **Cross-platform** development.
+I’m particularly interested in AI-powered applications, scalable backend systems, and clean architecture. My current long-term side project, ProjectDarling, is an AI companion project where I’m exploring conversational AI, persistent memory, and modular system design.
 
 ---
 
-### 🛠 Tech Stack & Tools
+###  Tech Stack & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,cs,html,css,js,firebase,sqlite,mongodb,linux,git,github&perline=13" />
 </p>
@@ -23,7 +23,7 @@ I am a **Software Engineering** student at **HUFLIT**. Currently, I'm diving dee
 
 ---
 
-### 📊 My GitHub Stats
+###  My GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tuyenminhtran&show_icons=true&theme=tokyonight&hide_border=false" alt="Stats" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuyenminhtran&layout=compact&theme=tokyonight&hide_border=false" alt="Top Langs" height="150" />
