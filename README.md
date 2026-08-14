@@ -19,7 +19,7 @@ I’m a Software Engineering student at HUFLIT focusing on Backend Development. 
   <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,cs,html,css,js,firebase,sqlite,mongodb,linux,git,github&perline=13" />
 </p>
 
- **Core Focus:** Android & Web Fundamentals.
+ **Core Focus:** Core Focus: C# / .NET Backend, Database Architecture & AI Systems Integration.
 
 ---
 
